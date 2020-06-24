@@ -1,0 +1,5 @@
+selenium.open firefox url g1ant.com
+selenium.newtab facebook.com
+selenium.newtab google.com
+dialog ‴Now let's go back to the first tab‴
+selenium.activatetab search g1ant by url
